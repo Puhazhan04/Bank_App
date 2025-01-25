@@ -1,0 +1,14 @@
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\bin\Debug\net8.0\Bank_App.exe
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\bin\Debug\net8.0\Bank_App.deps.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\bin\Debug\net8.0\Bank_App.runtimeconfig.json
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\bin\Debug\net8.0\Bank_App.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\bin\Debug\net8.0\Bank_App.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.AssemblyInfoInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.AssemblyInfo.cs
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.csproj.CoreCompileInputs.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\refint\Bank_App.dll
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.pdb
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\Bank_App.genruntimeconfig.cache
+C:\Users\Puhazhan Indrakumar\Desktop\Modul\C#\Bank_App\Bank_App\obj\Debug\net8.0\ref\Bank_App.dll
